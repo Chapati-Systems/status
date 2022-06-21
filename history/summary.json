@@ -58,19 +58,19 @@
     "url": "https://os.money",
     "icon": "https://favicons.githubusercontent.com/os.money",
     "slug": "os-money",
-    "status": "down",
-    "uptime": "98.88%",
-    "uptimeDay": "97.07%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "98.88%",
-    "time": 2179,
-    "timeDay": 3646,
-    "timeWeek": 2179,
-    "timeMonth": 2179,
-    "timeYear": 2179,
+    "status": "up",
+    "uptime": "98.59%",
+    "uptimeDay": "96.31%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "98.59%",
+    "time": 1995,
+    "timeDay": 2956,
+    "timeWeek": 1995,
+    "timeMonth": 1995,
+    "timeYear": 1995,
     "dailyMinutesDown": {
-      "2022-06-21": 42
+      "2022-06-21": 53
     }
   }
 ]
