@@ -1,7 +1,7 @@
 url: https://os.money
-status: up
-code: 200
-responseTime: 355
-lastUpdated: 2022-06-30T07:47:13.003Z
+status: down
+code: 403
+responseTime: 389
+lastUpdated: 2022-06-30T13:04:13.646Z
 startTime: Sat Jun 18 2022 16:50:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
