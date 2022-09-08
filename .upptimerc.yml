@@ -13,6 +13,8 @@ sites:
     url: $GITEA
   - name: Kanboard
     url: $KANBOARD
+  - name: Auth Service
+    url: $AUTH_SERVICE
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
