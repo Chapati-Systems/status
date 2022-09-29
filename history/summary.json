@@ -83,19 +83,19 @@
     "url": "$SERVER2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "server-3",
-    "status": "down",
-    "uptime": "90.92%",
-    "uptimeDay": "90.92%",
-    "uptimeWeek": "90.92%",
-    "uptimeMonth": "90.92%",
-    "uptimeYear": "90.92%",
-    "time": 319,
-    "timeDay": 319,
-    "timeWeek": 319,
-    "timeMonth": 319,
-    "timeYear": 319,
+    "status": "up",
+    "uptime": "85.51%",
+    "uptimeDay": "85.51%",
+    "uptimeWeek": "85.51%",
+    "uptimeMonth": "85.51%",
+    "uptimeYear": "85.51%",
+    "time": 322,
+    "timeDay": 322,
+    "timeWeek": 322,
+    "timeMonth": 322,
+    "timeYear": 322,
     "dailyMinutesDown": {
-      "2022-09-29": 21
+      "2022-09-29": 36
     }
   },
   {
