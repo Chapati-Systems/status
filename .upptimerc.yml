@@ -7,8 +7,12 @@ sites:
     url: https://alphalerts.com/
   - name: OS.MONEY
     url: https://os.money
-  - name: Server
+  - name: Tasty Stream
+    url: https://tasty.stream/
+  - name: Server 1
     url: $SERVER
+  - name: Server 3
+    url: $SERVER2
   - name: Gitea
     url: $GITEA
   - name: Kanboard
