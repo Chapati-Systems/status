@@ -15,8 +15,6 @@ sites:
     url: $SERVER2
   - name: Gitea
     url: $GITEA
-  - name: CI / CD
-    url: $CI_CD
   - name: Kanboard
     url: $KANBOARD
   - name: Auth Service
