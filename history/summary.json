@@ -2,7 +2,7 @@
   {
     "name": "Alphalerts",
     "url": "https://alphalerts.com/",
-    "icon": "https://favicons.githubusercontent.com/alphalerts.com",
+    "icon": "https://icons.duckduckgo.com/ip3/alphalerts.com.ico",
     "slug": "alphalerts",
     "status": "up",
     "uptime": "99.94%",
@@ -23,7 +23,7 @@
   {
     "name": "OS.MONEY",
     "url": "https://os.money",
-    "icon": "https://favicons.githubusercontent.com/os.money",
+    "icon": "https://icons.duckduckgo.com/ip3/os.money.ico",
     "slug": "os-money",
     "status": "up",
     "uptime": "99.80%",
@@ -47,7 +47,7 @@
   {
     "name": "Tasty Stream",
     "url": "https://tasty.stream/",
-    "icon": "https://favicons.githubusercontent.com/tasty.stream",
+    "icon": "https://icons.duckduckgo.com/ip3/tasty.stream.ico",
     "slug": "tasty-stream",
     "status": "up",
     "uptime": "100.00%",
@@ -65,7 +65,7 @@
   {
     "name": "Server 1",
     "url": "$SERVER",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-1",
     "status": "up",
     "uptime": "100.00%",
@@ -83,20 +83,21 @@
   {
     "name": "Server 2",
     "url": "$SERVER2",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-2",
-    "status": "up",
-    "uptime": "53.72%",
-    "uptimeDay": "54.44%",
-    "uptimeWeek": "53.72%",
-    "uptimeMonth": "53.72%",
-    "uptimeYear": "53.72%",
+    "status": "down",
+    "uptime": "55.59%",
+    "uptimeDay": "54.43%",
+    "uptimeWeek": "55.59%",
+    "uptimeMonth": "55.59%",
+    "uptimeYear": "55.59%",
     "time": 305,
     "timeDay": 328,
     "timeWeek": 305,
     "timeMonth": 305,
     "timeYear": 305,
     "dailyMinutesDown": {
+      "2022-10-02": 0,
       "2022-10-01": 657,
       "2022-09-30": 642,
       "2022-09-29": 125
@@ -105,7 +106,7 @@
   {
     "name": "Gitea",
     "url": "$GITEA",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gitea",
     "status": "up",
     "uptime": "100.00%",
@@ -123,7 +124,7 @@
   {
     "name": "Kanboard",
     "url": "$KANBOARD",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kanboard",
     "status": "up",
     "uptime": "100.00%",
@@ -141,7 +142,7 @@
   {
     "name": "Auth Service",
     "url": "$AUTH_SERVICE",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth-service",
     "status": "up",
     "uptime": "99.95%",
