@@ -85,14 +85,14 @@
     "url": "$SERVER2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-2",
-    "status": "up",
-    "uptime": "70.14%",
-    "uptimeDay": "50.21%",
-    "uptimeWeek": "53.40%",
-    "uptimeMonth": "70.14%",
-    "uptimeYear": "70.14%",
+    "status": "down",
+    "uptime": "71.09%",
+    "uptimeDay": "55.12%",
+    "uptimeWeek": "53.88%",
+    "uptimeMonth": "71.09%",
+    "uptimeYear": "71.09%",
     "time": 311,
-    "timeDay": 339,
+    "timeDay": 330,
     "timeWeek": 303,
     "timeMonth": 311,
     "timeYear": 311,
@@ -107,8 +107,7 @@
       "2022-10-09": 720,
       "2022-10-08": 492,
       "2022-10-07": 689,
-      "2022-10-06": 816,
-      "2022-10-05": 8
+      "2022-10-06": 621
     }
   },
   {
