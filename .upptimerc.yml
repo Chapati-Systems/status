@@ -11,8 +11,6 @@ sites:
     url: https://tasty.stream/
   - name: Server 1
     url: $SERVER
-  - name: Server 2
-    url: $SERVER2
   - name: Gitea
     url: $GITEA
   - name: Kanboard
