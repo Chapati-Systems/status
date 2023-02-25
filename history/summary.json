@@ -92,19 +92,19 @@
     "url": "$AUTOUPDATE_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "autoupdate-api",
-    "status": "down",
-    "uptime": "99.21%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.21%",
-    "uptimeYear": "99.21%",
-    "time": 8776,
-    "timeDay": 8776,
-    "timeWeek": 8776,
-    "timeMonth": 8776,
-    "timeYear": 8776,
+    "status": "up",
+    "uptime": "62.05%",
+    "uptimeDay": "62.05%",
+    "uptimeWeek": "62.05%",
+    "uptimeMonth": "62.05%",
+    "uptimeYear": "62.05%",
+    "time": 9223,
+    "timeDay": 9223,
+    "timeWeek": 9223,
+    "timeMonth": 9223,
+    "timeYear": 9223,
     "dailyMinutesDown": {
-      "2023-02-25": 0
+      "2023-02-25": 12
     }
   },
   {
