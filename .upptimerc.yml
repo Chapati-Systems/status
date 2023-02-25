@@ -3,20 +3,22 @@ owner: Chapati-Systems # Your GitHub organization or username, where this reposi
 repo: status # The name of this repository
 
 sites:
+  - name: Auth Service
+    url: $AUTH_SERVICE
   - name: Alphalerts
     url: https://alphalerts.com/
   - name: OS.MONEY
     url: https://os.money
+  - name: Autoupdate API
+    url: $AUTOUPDATE_API
   - name: Tasty Stream
     url: https://tasty.stream/
-  - name: Server 1
-    url: $SERVER
   - name: Gitea
     url: $GITEA
-  - name: Kanboard
+  - name: Project Management
     url: $KANBOARD
-  - name: Auth Service
-    url: $AUTH_SERVICE
+  - name: CI / CD
+    url: $CI_CD
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
