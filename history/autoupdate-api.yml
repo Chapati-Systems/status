@@ -1,7 +1,7 @@
 url: $AUTOUPDATE_API
-status: down
-code: 523
-responseTime: 10806
-lastUpdated: 2023-05-02T08:41:58.309Z
+status: up
+code: 200
+responseTime: 964
+lastUpdated: 2023-05-02T09:46:49.789Z
 startTime: Sat Feb 25 2023 15:21:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
