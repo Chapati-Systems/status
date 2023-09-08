@@ -7,8 +7,6 @@ sites:
     url: $AUTH_SERVICE
   - name: Alphalerts
     url: https://alphalerts.com/
-  - name: OS.MONEY
-    url: https://os.money
   - name: Autoupdate API
     url: $AUTOUPDATE_API
   - name: Tasty Stream
