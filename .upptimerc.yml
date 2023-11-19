@@ -9,6 +9,8 @@ sites:
     url: https://alphalerts.com/
   - name: Autoupdate API
     url: $AUTOUPDATE_API
+  - name: Autoupdate FF
+    url: $AUTOUPDATE_FF
   - name: Tasty Stream
     url: https://tasty.stream/
   - name: Gitea
