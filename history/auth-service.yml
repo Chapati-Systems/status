@@ -1,7 +1,7 @@
 url: $AUTH_SERVICE
-status: down
-code: 502
-responseTime: 380
-lastUpdated: 2024-01-02T18:22:17.980Z
+status: up
+code: 200
+responseTime: 356
+lastUpdated: 2024-01-02T18:46:53.766Z
 startTime: 2022-09-08T09:53:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
