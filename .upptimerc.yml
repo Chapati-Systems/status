@@ -11,6 +11,8 @@ sites:
     url: $AUTOUPDATE_API
   - name: Autoupdate FF
     url: $AUTOUPDATE_FF
+  - name: WebPage4.Me
+    url: https://webpage4.me
   - name: Tasty Stream
     url: https://tasty.stream/
   - name: Gitea
