@@ -1,7 +1,7 @@
 url: $ANALYTICS
-status: down
-code: 502
-responseTime: 472
-lastUpdated: 2024-04-10T21:58:24.530Z
+status: up
+code: 200
+responseTime: 345
+lastUpdated: 2024-04-10T22:21:31.740Z
 startTime: 2023-04-19T18:36:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
