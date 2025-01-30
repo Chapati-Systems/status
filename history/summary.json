@@ -26,8 +26,7 @@
       "2024-03-21": 447,
       "2024-03-08": 79,
       "2024-03-04": 73,
-      "2024-02-01": 205,
-      "2024-01-31": 154
+      "2024-02-01": 205
     }
   },
   {
@@ -37,9 +36,9 @@
     "slug": "alphalerts",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "97.87%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.27%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "99.59%",
     "time": 1319,
     "timeDay": 977,
@@ -47,7 +46,7 @@
     "timeMonth": 1149,
     "timeYear": 1330,
     "dailyMinutesDown": {
-      "2025-01-29": 31,
+      "2025-01-29": 19,
       "2025-01-28": 17,
       "2025-01-24": 18,
       "2025-01-23": 22,
@@ -85,9 +84,9 @@
     "slug": "autoupdate-api",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 507,
     "timeDay": 577,
@@ -95,10 +94,8 @@
     "timeMonth": 528,
     "timeYear": 505,
     "dailyMinutesDown": {
-      "2025-01-29": 12,
       "2024-11-12": 56,
-      "2024-02-01": 205,
-      "2024-01-31": 153
+      "2024-02-01": 205
     }
   },
   {
@@ -108,9 +105,9 @@
     "slug": "autoupdate-ff",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 634,
     "timeDay": 466,
@@ -118,10 +115,8 @@
     "timeMonth": 681,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2025-01-29": 12,
       "2024-11-12": 54,
-      "2024-02-01": 205,
-      "2024-01-31": 151
+      "2024-02-01": 205
     }
   },
   {
@@ -131,9 +126,9 @@
     "slug": "web-page4-me",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 736,
     "timeDay": 594,
@@ -141,7 +136,6 @@
     "timeMonth": 769,
     "timeYear": 736,
     "dailyMinutesDown": {
-      "2025-01-29": 12,
       "2024-11-12": 50
     }
   },
@@ -170,9 +164,9 @@
     "slug": "gitea",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 646,
     "timeDay": 984,
@@ -180,10 +174,8 @@
     "timeMonth": 713,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2025-01-29": 12,
       "2024-04-16": 20,
-      "2024-02-01": 205,
-      "2024-01-31": 151
+      "2024-02-01": 205
     }
   },
   {
@@ -193,9 +185,9 @@
     "slug": "project-management",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 719,
     "timeDay": 536,
@@ -203,7 +195,6 @@
     "timeMonth": 677,
     "timeYear": 643,
     "dailyMinutesDown": {
-      "2025-01-29": 12,
       "2024-11-12": 48,
       "2024-02-08": 303
     }
@@ -215,21 +206,19 @@
     "slug": "analytics",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.89%",
     "time": 531,
     "timeDay": 534,
     "timeWeek": 598,
     "timeMonth": 663,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2025-01-29": 12,
       "2024-11-12": 30,
       "2024-04-10": 23,
-      "2024-02-01": 393,
-      "2024-01-31": 149
+      "2024-02-01": 393
     }
   },
   {
@@ -239,9 +228,9 @@
     "slug": "wakapi",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 642,
     "timeDay": 472,
@@ -249,10 +238,8 @@
     "timeMonth": 647,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2025-01-29": 12,
       "2024-11-12": 29,
-      "2024-02-01": 205,
-      "2024-01-31": 148
+      "2024-02-01": 205
     }
   }
 ]
