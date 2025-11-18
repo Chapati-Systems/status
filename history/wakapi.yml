@@ -1,7 +1,7 @@
 url: $WAKAPI
-status: down
-code: 500
-responseTime: 89
-lastUpdated: 2025-11-18T13:36:12.239Z
+status: up
+code: 200
+responseTime: 867
+lastUpdated: 2025-11-18T14:40:13.215Z
 startTime: 2023-04-19T18:36:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
