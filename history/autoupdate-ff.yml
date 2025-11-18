@@ -1,7 +1,7 @@
 url: $AUTOUPDATE_FF
-status: down
-code: 500
-responseTime: 122
-lastUpdated: 2025-11-18T13:36:02.761Z
+status: up
+code: 200
+responseTime: 1492
+lastUpdated: 2025-11-18T14:39:54.031Z
 startTime: 2023-11-19T10:06:14.479Z
 generator: Upptime <https://github.com/upptime/upptime>
