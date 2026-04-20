@@ -110,9 +110,9 @@
     "url": "https://tasty.stream/",
     "icon": "https://icons.duckduckgo.com/ip3/tasty.stream.ico",
     "slug": "tasty-stream",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -122,6 +122,7 @@
     "timeMonth": 311,
     "timeYear": 410,
     "dailyMinutesDown": {
+      "2026-04-20": 0,
       "2026-02-04": 58,
       "2025-11-18": 135
     }
