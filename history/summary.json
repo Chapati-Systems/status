@@ -27,17 +27,17 @@
     "url": "https://alphalerts.com/",
     "icon": "https://icons.duckduckgo.com/ip3/alphalerts.com.ico",
     "slug": "alphalerts",
-    "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.89%",
-    "time": 1492,
-    "timeDay": 10306,
-    "timeWeek": 3664,
-    "timeMonth": 1930,
-    "timeYear": 1565,
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "84.32%",
+    "uptimeWeek": "97.76%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.85%",
+    "time": 1498,
+    "timeDay": 8335,
+    "timeWeek": 3745,
+    "timeMonth": 2007,
+    "timeYear": 1573,
     "dailyMinutesDown": {
       "2025-10-27": 28,
       "2025-11-13": 25,
@@ -46,7 +46,7 @@
       "2026-03-25": 55,
       "2026-04-09": 169,
       "2026-04-29": 75,
-      "2026-10-23": 3
+      "2026-10-23": 226
     }
   },
   {
